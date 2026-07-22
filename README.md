@@ -4,6 +4,14 @@ Este repositório reúne atividades, exercícios e implementações desenvolvida
 
 ## Conteúdos abordados
 
+# IA - Inteligência Artificial
+
+Repositório dedicado à disciplina de Inteligência Artificial, reunindo exercícios, atividades e trabalhos desenvolvidos ao longo do curso.
+
+## 📋 Conteúdo
+
+O repositório reúne conteúdos diversos trabalhados na disciplina, podendo incluir:
+
 - **História e fundamentos da IA**  
   Introdução à evolução da Inteligência Artificial e seus conceitos principais.
 
@@ -23,7 +31,23 @@ Este repositório reúne atividades, exercícios e implementações desenvolvida
   - Processamento de Linguagens Naturais (PLN)  
   - Jogos  
   - Robótica  
-  - Mineração de dados  
+  - Mineração de dados 
+  
+
+## 📁 Estrutura do repositório
+
+```
+.
+├── exercicios_praticos/   # Exercícios práticos (implementações)
+├── exercicios_teoricos/   # Exercícios teóricos (questões, respostas, análises)
+└── ...                    # Demais atividades da disciplina
+```
+
+> Ajuste os nomes das pastas acima conforme a grafia real usada no repositório.
+
+## 🎓 Disciplina
+
+Inteligência Artificial — Bacharelado Interdisciplinar em Ciência e Tecnologia, UNIFESP. 
 
 ## Tecnologias utilizadas
 
