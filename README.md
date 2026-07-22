@@ -32,7 +32,7 @@ O repositório reúne conteúdos diversos trabalhados na disciplina, podendo inc
   - Jogos  
   - Robótica  
   - Mineração de dados 
-  
+
 
 ## 📁 Estrutura do repositório
 
@@ -53,5 +53,3 @@ Inteligência Artificial — Bacharelado Interdisciplinar em Ciência e Tecnolog
 
 - **Python** — principal linguagem para implementação dos algoritmos
 - Bibliotecas padrão para manipulação de dados e visualização (dependendo da atividade)
-
-## Estrutura do repositório
